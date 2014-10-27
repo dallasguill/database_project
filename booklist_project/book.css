@@ -1,0 +1,38 @@
+img {
+	width: 100px;
+	height: 150px;
+}
+
+
+body {
+    background-image: url('');
+    background-repeat: repeat;
+    background-color: #0000FF;
+    background-attachment: fixed;
+}
+body {
+	font-family: arial, Helvetica, sans-serif;
+	font-size: 100%;
+	font-weight: bold;
+	text-align: center;
+}
+ 
+table, th, td {
+   border: 2px solid black;
+ }  
+ tr:nth-child(even) {
+    background-color: #0033FF;
+} 
+tr:nth-child(odd) {
+    background-color: #0066FF;
+} 
+
+th {
+	font-size: 30px;  
+}
+td {
+	width: 100px;
+}
+.title {
+	width: 300px;
+}

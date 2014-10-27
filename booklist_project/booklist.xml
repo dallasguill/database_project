@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="booklist.xsl"?>
+<booklist>
+	<book>
+		<title>Fear and Loathing in Las Vegas</title>
+		<author>
+			<last>Thompson</last>
+			<first>Hunter S.</first>
+		</author>
+		<picture>
+			<image source="images/fear" />
+				<url href="http://www.amazon.com"></url>
+		</picture>
+		<year>1971</year>
+		<genre>Fiction</genre>
+	</book>
+
+	<book>
+		<title>The Road</title>
+		<author>
+			<last>McCarthy</last>
+			<first>Cormac</first>
+		</author>
+		<picture>
+			<image source="images/road" />
+		</picture>
+		<year>2006</year>
+		<genre>Fiction</genre>
+	</book>	
+	<book>
+		<title>The Catcher in the Rye</title>
+		<author>
+			<last>Salinger</last>
+			<first>J. D.</first>
+		</author>
+		<picture><image source="images/catcher" /></picture>
+		<year>1951</year>
+		<genre>Coming of Age</genre>
+	</book>
+	<book>
+		<title>LCD</title>
+		<author>
+			<last>Wijesooriya</last>
+			<first>Ruvan</first>
+		</author>
+		<picture><image source="images/lcd" /></picture>
+		<year>2012</year>
+		<genre>Photography</genre>
+	</book>	
+	<book>
+		<title>Atlas Shrugged</title>
+		<author>
+			<last>Rand</last>
+			<first>Ayn</first>
+		</author>
+		<picture><image source="images/atlas" /></picture>
+		<year>1957</year>
+		<genre>Fiction</genre>
+	</book>
+	<book>
+		<title>Hot Water Music</title>
+		<author>
+			<last>Bukowski</last>
+			<first>Charles</first>
+		</author>
+		<picture><image source="images/hot" /></picture>
+		<year>1983</year>
+		<genre>Short Stories</genre>
+	</book>
+	<book>
+		<title>The Prophet</title>
+		<author>
+			<last>Kahlil</last>
+			<first>Gibran</first>
+		</author>
+		<picture><image source="images/prophet" /></picture>
+		<year>1923</year>
+		<genre>Poetry</genre>
+	</book>		
+	<book>
+		<title>The New Wounded</title>
+		<author>
+			<last>Malabou</last>
+			<first>Catherine</first>
+		</author>
+		<picture><image source="images/wounded" /></picture>
+		<year>2007</year>
+		<genre>Philosophy</genre>
+	</book>			
+	<book>
+		<title>Rhetorical Bodies</title>
+		<editor>
+			<last>Selzer</last>
+			<first>Jack</first>
+			<last2>Crowley</last2>
+			<first2>Sharon</first2>
+		</editor>
+		<picture><image source="images/rhetorical" /></picture>
+		<year>1957</year>
+		<genre>Philosophy</genre>
+	</book>
+	<book>
+		<title>The Neuroscience of Human Relationships</title>
+		<author>
+			<last>Cozolino</last>
+			<first>Louis</first>
+		</author>
+		<picture><image source="images/neuro" /></picture>
+		<year>2006</year>
+		<genre>Medical</genre>
+	</book>
+	<book>
+		<title>The Sailor Who Fell From Grace With The Sea</title>
+		<author>
+			<last>Mishima</last>
+			<first>Yukio</first>
+		</author>
+		<picture><image source="images/sailor" /></picture>
+		<year>1963</year>
+		<genre>Fiction</genre>
+	</book>
+	<book>
+		<title>The Arabian Nights</title>
+		<author>
+			<last>Haddawy (Trans.)</last>
+			<first>Hussein</first>
+		</author>
+		<picture><image source="images/arabian" /></picture>
+		<year>2008</year>
+		<genre>Adventure</genre>
+	</book>
+	<book>
+		<title>A Shropshire Lad</title>
+		<author>
+			<last>Housman</last>
+			<first>A. E.</first>
+		</author>
+		<picture><image source="images/shropshire" /></picture>
+		<year>1896</year>
+		<genre>Poetry</genre>
+	</book>
+	<book>
+		<title>More Poems</title>
+		<author>
+			<last>Housman</last>
+			<first>A. E.</first>
+		</author>
+		<picture><image source="images/more" /></picture>
+		<year>1936</year>
+		<genre>Poetry</genre>
+	</book>
+	<book>
+		<title>Human Error: Species Being and Media Machines</title>
+		<author>
+			<last>Pettman</last>
+			<first>Dominic</first>
+		</author>
+		<picture><image source="images/human" /></picture>
+		<year>2011</year>
+		<genre>Fiction</genre>
+	</book>
+		<book>
+		<title>A Farewell to Arms</title>
+		<author>
+			<last>Hemingway</last>
+			<first>Ernest</first>
+		</author>
+		<picture><image source="images/farewell" /></picture>
+		<year>1929</year>
+		<genre>Fiction</genre>
+	</book>
+	<book>
+		<title>Timequake</title>
+		<author>
+			<last>Vonnegut</last>
+			<first>Kurt</first>
+		</author>
+		<picture><image source="images/time" /></picture>
+		<year>1997</year>
+		<genre>Fiction</genre>
+	</book>
+	<book>
+		<title>What Should We Do With Our Brian?</title>
+		<author>
+			<last>Malabou</last>
+			<first>Catherine</first>
+		</author>
+		<picture><image source="images/prophet" /></picture>
+		<year>2008</year>
+		<genre>Philospohy</genre>
+	</book>
+	<book>
+		<title>House of Leaves</title>
+		<author>
+			<last>Danielewski</last>
+			<first>Mark Z.</first>
+		</author>
+		<picture><image source="images/house" /></picture>
+		<year>2000</year>
+		<genre>Fiction</genre>
+	</book>
+	<book>
+		<title>Killing Yourself to Live</title>
+		<author>
+			<last>Klosterman</last>
+			<first>Chuck</first>
+		</author>
+		<picture><image source="images/killing" /></picture>
+		<year>2005</year>
+		<genre>Fiction</genre>
+	</book>
+	<book>
+		<title>Sixty Stories</title>
+		<author>
+			<last>Barthelme</last>
+			<first>Donald</first>
+		</author>
+		<picture><image source="images/sixty" /></picture>
+		<year>1981</year>
+		<genre>Short Stories</genre>
+	</book>
+	<book>
+		<title>Hocus Pocus</title>
+		<author>
+			<last>Vonnegut</last>
+			<first>Kurt</first>
+		</author>
+		<picture><image source="images/hocus" /></picture>
+		<year>1990</year>
+		<genre>Fiction</genre>
+	</book>
+	<book>
+		<title>On the Road</title>
+		<author>
+			<last>Kerouac</last>
+			<first>Jack</first>
+		</author>
+		<picture><image source="images/on" /></picture>
+		<year>1957</year>
+		<genre>Fiction</genre>
+	</book>
+	<book>
+		<title>Crime and Punishment</title>
+		<author>
+			<last>Dostoevsky</last>
+			<first>Fyodor</first>
+		</author>
+		<picture><image source="images/crime" /></picture>
+		<year>1866</year>
+		<genre>Drama</genre>
+	</book>
+	<book>
+		<title>Metamorphosis</title>
+		<author>
+			<last>Kafka</last>
+			<first>Franz</first>
+		</author>
+		<picture><image source="images/meta" /></picture>
+		<year>1915</year>
+		<genre>Science Fiction</genre>
+	</book>
+	<book>
+		<title>100 selected poems</title>
+		<author>
+			<last>Cummings</last>
+			<first>e. e.</first>
+		</author>
+		<picture><image source="images/100" /></picture>
+		<year>1926</year>
+		<genre>Poetry</genre>
+	</book>
+	<book>
+		<title>Billy Budd and Other Tales</title>
+		<author>
+			<last>Melville</last>
+			<first>Herman</first>
+		</author>
+		<picture><image source="images/billy" /></picture>
+		<year>1961</year>
+		<genre>Fiction</genre>
+	</book>
+	<book>
+		<title>The Martian Chronicles</title>
+		<author>
+			<last>Bradbury</last>
+			<first>Ray</first>
+		</author>
+		<picture><image source="images/martian" /></picture>
+		<year>1950</year>
+		<genre>Science Fiction</genre>
+	</book>
+	<book>
+		<title>Selected Poems</title>
+		<author>
+			<last>Stevens</last>
+			<first>Wallace</first>
+		</author>
+		<picture><image source="images/selected" /></picture>
+		<year>1953</year>
+		<genre>Poetry</genre>
+	</book>
+<book>
+		<title>The Mysterious Mr. Ripley</title>
+		<author>
+			<last>Highsmith</last>
+			<first>Patricia</first>
+		</author>
+		<picture><image source="images/ripley" /></picture>
+		<year>1985</year>
+		<genre>Mystery</genre>
+	</book>
+<book>
+		<title>The Stranger</title>
+		<author>
+			<last>Camus</last>
+			<first>Albert</first>
+		</author>
+		<picture><image source="images/stranger" /></picture>
+		<year>1942</year>
+		<genre>Existentialism</genre>
+	</book>
+	<book>
+		<title>How to Read Literature Like a Professor</title>
+		<author>
+			<last>Foster</last>
+			<first>Thomas C.</first>
+		</author>
+		<picture><image source="images/professor" /></picture>
+		<year>2003</year>
+		<genre>Literary Criticism</genre>
+	</book>
+	<book>
+		<title>The Echo Maker</title>
+		<author>
+			<last>Powers</last>
+			<first>Richard</first>
+		</author>
+		<picture><image source="images/echo" /></picture>
+		<year>2006</year>
+		<genre>Drama</genre>
+	</book>
+	<book>
+		<title>The Mysterious Stranger and Other Stories</title>
+		<author>
+			<last>Twain</last>
+			<first>Mark</first>
+		</author>
+		<picture><image source="images/mysterious" /></picture>
+		<year>1992</year>
+		<genre>Short Stories</genre>
+	</book>
+	<book>
+		<title>The Decameron</title>
+		<author>
+			<last>Boccaccio</last>
+			<first>Giovanni</first>
+		</author>
+		<picture><image source="images/decameron" /></picture>
+		<year>1348(Eng.1886)</year>
+		<genre>Short Stories</genre>
+	</book>
+	<book>
+		<title>Fiesta: The Sun Also Rises</title>
+		<author>
+			<last>Hemingway</last>
+			<first>Ernest</first>
+		</author>
+		<picture><image source="images/fiesta" /></picture>
+		<year>1926</year>
+		<genre>Drama</genre>
+	</book>
+	<book>
+		<title>Bodily Arts</title>
+		<author>
+			<last>Hawhee</last>
+			<first>Debra</first>
+		</author>
+		<picture><image source="images/bodily" /></picture>
+		<year>2004</year>
+		<genre>Philosophy</genre>
+	</book>
+	<book>
+		<title>Galatea 2.2</title>
+		<author>
+			<last>Powers</last>
+			<first>Richard</first>
+		</author>
+		<picture><image source="images/galatea" /></picture>
+		<year>1995</year>
+		<genre>Drama</genre>
+	</book>
+	<book>
+		<title>Raise High the Roof Beam, Carpenters and Seymour</title>
+		<author>
+			<last>Salinger</last>
+			<first>J. D.</first>
+		</author>
+		<picture><image source="images/seymour" /></picture>
+		<year>1955</year>
+		<genre>Drama</genre>
+	</book>
+	<book>
+		<title>The Fountainhead</title>
+		<author>
+			<last>Rand</last>
+			<first>Ayn</first>
+		</author>
+		<picture><image source="images/fountain" /></picture>
+		<year>1943</year>
+		<genre>Drama</genre>
+	</book>
+	<book>
+		<title>Collected Short Stories</title>
+		<author>
+			<last>Greed</last>
+			<first>Graham</first>
+		</author>
+		<picture><image source="images/greene" /></picture>
+		<year>1992</year>
+		<genre>Short Stories</genre>
+	</book>
+	<book>
+		<title>The Sound and the Fury</title>
+		<author>
+			<last>Faulkner</last>
+			<first>William</first>
+		</author>
+		<picture><image source="images/sound" /></picture>
+		<year>1929</year>
+		<genre>Drama</genre>
+	</book>
+	<book>
+		<title>The Complete Poems of Stephen Crane</title>
+		<author>
+			<last>Crane</last>
+			<first>Stephen</first>
+		</author>
+		<picture><image source="images/crane" /></picture>
+		<year>1972</year>
+		<genre>Poetry</genre>
+	</book>
+	<book>
+		<title>The Waste Land and Other Poems</title>
+		<author>
+			<last>Eliot</last>
+			<first>T. S.</first>
+		</author>
+		<picture><image source="images/waste" /></picture>
+		<year>1955</year>
+		<genre>Drama</genre>
+	</book>
+	<book>
+		<title>The World of the Short Story</title>
+		<editor>
+			<last>Fadiman</last>
+			<first>Clifton</first>
+		</editor>
+		<picture><image source="images/world" /></picture>
+		<year>1990</year>
+		<genre>Short Stories</genre>
+	</book>
+	<book>
+		<title>Naked Lunch</title>
+		<author>
+			<last>Burroughs</last>
+			<first>William S.</first>
+		</author>
+		<picture><image source="images/naked" /></picture>
+		<year>1959</year>
+		<genre>Science Fiction</genre>
+	</book>
+	<book>
+		<title>The Scarlet Letter</title>
+		<author>
+			<last>Hawthorne</last>
+			<first>Nathaniel</first>
+		</author>
+		<picture><image source="images/letter" /></picture>
+		<year>1850</year>
+		<genre>Drama</genre>
+	</book>
+	<book>
+		<title>The Great Modern Poets</title>
+		<editor>
+			<last>Schmidt</last>
+			<first>Michael</first>
+		</editor>
+		<picture><image source="images/modern" /></picture>
+		<year>2009</year>
+		<genre>Poetry</genre>
+	</book>
+	<book>
+		<title>An Introduction to Poetry</title>
+		<editor>
+			<last>Kennedy</last>
+			<first>X. J.</first>
+			<last2>Gioia</last2>
+			<first2>Dana</first2>
+		</editor>
+		<picture><image source="images/intro" /></picture>
+		<year>2004</year>
+		<genre>Poetry</genre>
+	</book>
+	<book>
+		<title>Complete Poems of Emily Dickinson</title>
+		<author>
+			<last>Dickinson</last>
+			<first>Emily</first>
+		</author>
+		<picture><image source="images/emily" /></picture>
+		<year>1960</year>
+		<genre>Poetry</genre>
+	</book>
+	<book>
+		<title>Hawthorne: Selected Tales and Sketches</title>
+		<author>
+			<last>Hawthorne</last>
+			<first>Nathaniel</first>
+		</author>
+		<picture><image source="images/sketches" /></picture>
+		<year>1970</year>
+		<genre>Short Stories</genre>
+	</book>
+	<book>
+		<title>Great Modern Short Novels</title>
+		<picture><image source="images/great" /></picture>
+		<year>1966</year>
+		<genre>Short Stories</genre>
+	</book>
+	<book>
+		<title>The Second Tree From the Corner</title>
+		<author>
+			<last>White</last>
+			<first>E. B.</first>
+		</author>
+		<picture><image source="images/tree" /></picture>
+		<year>1954</year>
+		<genre>Fiction</genre>
+	</book>
+	<book>
+		<title>Tales of Mystery and Imagination</title>
+		<author>
+			<last>Poe</last>
+			<first>Edgar Allen</first>
+		</author>
+		<picture><image source="images/mystery" /></picture>
+		<year>1919</year>
+		<genre>Short Stories</genre>
+	</book>
+	<book>
+		<title>The Poetry of Robert Frost</title>
+		<author>
+			<last>Frost</last>
+			<first>Robert</first>
+		</author>
+		<picture><image source="images/frost" /></picture>
+		<year>1969</year>
+		<genre>Poetry</genre>
+	</book>
+	<book>
+		<title>The Epic of Gilgamesh</title>
+		<editor>
+			<last>Foster</last>
+			<first>Benjamin R.</first>
+		</editor>
+		<picture><image source="images/epic" /></picture>
+		<year>1973</year>
+		<genre>Poetry</genre>
+	</book>
+	<book>
+		<title>Your Special Gift</title>
+		<author>
+			<last>Lucado</last>
+			<first>Max</first>
+		</author>
+		<picture><image source="images/gift" /></picture>
+		<year>2006</year>
+		<genre>Childrens</genre>
+	</book>
+	<book>
+		<title>The Poetry of Black America</title>
+		<editor>
+			<last>Adoff</last>
+			<first>Arnold</first>
+		</editor>
+		<picture><image source="images/black" /></picture>
+		<year>1973</year>
+		<genre>Poetry</genre>
+	</book>
+	<book>
+		<title>David Copperfield</title>
+		<author>
+			<last>Dickens</last>
+			<first>Charles</first>
+		</author>
+		<picture><image source="images/david" /></picture>
+		<year>1850</year>
+		<genre>Fiction</genre>
+	</book>
+	<book>
+		<title>World Literature</title>
+		<editor>
+			<last>Weeks</last>
+			<first>Ruth Mary</first>
+			<last2>Lyman</last2>
+			<first2>Lollo L.</first2>
+			<last3>Hill</last3>
+			<first3>Howard C.</first3>
+		</editor>
+		<picture><image source="images/world" /></picture>
+		<year>1938</year>
+		<genre>Anthology</genre>
+	</book>
+	<book>
+		<title>Oxford New Spanish Dictionary</title>
+		<editor>
+			<last>Rollin</last>
+			<first>Nicholas</first>
+			<last2>Carcajal</last2>
+			<first2>Carol Styles</first2>
+		</editor>
+		<picture><image source="images/spanish" /></picture>
+		<year>2009</year>
+		<genre>Dictionary</genre>
+	</book>
+	<book>
+		<title>Clapton</title>
+		<author>
+			<last>Clapton</last>
+			<first>Eric</first>
+		</author>
+		<picture><image source="images/clapton" /></picture>
+		<year>2007</year>
+		<genre>Autobiography</genre>
+	</book>
+	<book>
+		<title>Wonderful Tonight</title>
+		<author>
+			<last>Boyd</last>
+			<first>Pattie</first>
+		</author>
+		<picture><image source="images/boyd" /></picture>
+		<year>2007</year>
+		<genre>Autoboigraphy</genre>
+	</book>
+	<book>
+		<title>Behind Sad Eyes: The Life of George Harrison</title>
+		<author>
+			<last>Shapiro</last>
+			<first>Marc</first>
+		</author>
+		<picture><image source="images/harrison" /></picture>
+		<year>2002</year>
+		<genre>Biography</genre>
+	</book>
+	<book>
+		<title>The Chamber</title>
+		<author>
+			<last>Grisham</last>
+			<first>John</first>
+		</author>
+		<picture><image source="images/chamber" /></picture>
+		<year>1994</year>
+		<genre>Legal Thriller</genre>
+	</book>
+	<book>
+		<title>Salinger</title>
+		<author>
+			<last>Alexander</last>
+			<first>Paul</first>
+		</author>
+		<picture><image source="images/salinger" /></picture>
+		<year>2010</year>
+		<genre>Biography</genre>
+	</book>
+	<book>
+		<title>Bob Dylan: The Essential Interviews</title>
+		<editor>
+			<last>Cott</last>
+			<first>Jonathan</first>
+		</editor>
+		<picture><image source="images/dylan" /></picture>
+		<year>2006</year>
+		<genre>Journalism</genre>
+	</book>
+	<book>
+		<title>The Broker</title>
+		<author>
+			<last>Grisham</last>
+			<first>John</first>
+		</author>
+		<picture><image source="images/broker" /></picture>
+		<year>2005</year>
+		<genre>Legal Thriller</genre>
+	</book>
+	<book>
+		<title>The Fellowship of the Ring</title>
+		<author>
+			<last>Tolkien</last>
+			<first>J. R. R.</first>
+		</author>
+		<picture><image source="images/ring" /></picture>
+		<year>1954</year>
+		<genre>Fantasy</genre>
+	</book>
+	<book>
+		<title>Return of the King</title>
+		<author>
+			<last>Tolkien</last>
+			<first>J. R. R.</first>
+		</author>
+		<picture><image source="images/king" /></picture>
+		<year>1955</year>
+		<genre>Fantasy</genre>
+	</book>
+	<book>
+		<title>The Crossing</title>
+		<author>
+			<last>McCarthy</last>
+			<first>Cormac</first>
+		</author>
+		<picture><image source="images/crossing" /></picture>
+		<year>1994</year>
+		<genre>Fiction</genre>
+	</book>
+	<book>
+		<title>The Rainmaker</title>
+		<author>
+			<last>Grisham</last>
+			<first>John</first>
+		</author>
+		<picture><image source="images/rain" /></picture>
+		<year>1995</year>
+		<genre>Legal Thriller</genre>
+	</book>
+	<book>
+		<title>Franny and Zooey</title>
+		<author>
+			<last>Salinger</last>
+			<first>J. D.</first>
+		</author>
+		<picture><image source="images/franny" /></picture>
+		<year>1961</year>
+		<genre>Coming of Age</genre>
+	</book>
+</booklist>
+
+
